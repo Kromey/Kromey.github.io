@@ -8,6 +8,10 @@ jailed: false
 theme: jekyll-theme-dinky
 gfm_quirks: paragraph_end
 
+plugins:
+  - jemoji
+  - jekyll-redirect-from
+
 # These are set by Github and can't be changed
 lsi: false
 safe: true
