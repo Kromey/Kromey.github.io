@@ -1,4 +1,6 @@
 ---
 tag: Security
-permalink: "/category/tech/security/"
+permalink: "/category/security/"
+redirect_from:
+  - /category/tech/security/
 ---
