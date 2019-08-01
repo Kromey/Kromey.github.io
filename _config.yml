@@ -12,6 +12,9 @@ plugins:
   - jemoji
   - jekyll-redirect-from
 
+repository: Kromey/Kromey.github.io
+timezone: America/Anchorage
+
 # These are set by Github and can't be changed
 lsi: false
 safe: true
