@@ -18,6 +18,8 @@ timezone: America/Anchorage
 collections:
   category:
     output: true
+  tag:
+    output: true
 
 defaults:
   -
@@ -26,6 +28,12 @@ defaults:
       type: category
     values:
       layout: "category"
+  -
+    scope:
+      path: ""
+      type: tag
+    values:
+      layout: "tag"
 
 # These are set by Github and can't be changed
 lsi: false
