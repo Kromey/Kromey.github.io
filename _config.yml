@@ -15,6 +15,18 @@ plugins:
 repository: Kromey/Kromey.github.io
 timezone: America/Anchorage
 
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
 # These are set by Github and can't be changed
 lsi: false
 safe: true
