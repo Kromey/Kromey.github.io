@@ -12,6 +12,7 @@ theme: jekyll-theme-dinky
 gfm_quirks: paragraph_end
 
 plugins:
+  - jekyll-seo-tag
   - jemoji
   - jekyll-redirect-from
   - jekyll-feed
