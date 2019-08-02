@@ -22,14 +22,12 @@ collections:
     output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: category
     values:
       layout: "category"
-  -
-    scope:
+  - scope:
       path: ""
       type: tag
     values:
