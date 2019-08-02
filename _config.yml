@@ -15,6 +15,9 @@ plugins:
 repository: Kromey/Kromey.github.io
 timezone: America/Anchorage
 
+paginate: 10
+paginate_path: "/page:num/"
+
 collections:
   category:
     output: true
