@@ -10,4 +10,4 @@ do
 	echo "tag: $TAG" >> $FILE
 	echo "permalink: /tag/$SLUG/" >> $FILE
 	echo "---" >> $FILE
-done <<< $(sed -n '/^---/,/^---/p' _posts/* | sed -n '/^tags:/,/^---/s/^- \(.*\)/\1/p' | sort -u)
+done <<< $(find _posts/ -name '*.md' -exec sed -n '/^---/,/^---/p' {} \; | sed -n '/^tags:/,/^---/s/^- \(.*\)/\1/p' | sort -u)
