@@ -4,6 +4,7 @@ comments: true
 date: 2011-06-29 02:32:24+00:00
 layout: post
 link: https://kromey.us/2011/06/microsoft-sql-server-2008-times-out-on-first-connection-attempt-447.html
+redirect_from: /2011/06/microsoft-sql-server-2008-times-out-on-first-connection-attempt-447.html
 slug: microsoft-sql-server-2008-times-out-on-first-connection-attempt
 title: Microsoft SQL Server 2008 Times Out on First Connection Attempt?
 wordpress_id: 447

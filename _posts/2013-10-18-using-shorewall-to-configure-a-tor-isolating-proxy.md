@@ -4,6 +4,7 @@ comments: true
 date: 2013-10-18 04:25:07+00:00
 layout: post
 link: https://kromey.us/2013/10/using-shorewall-to-configure-a-tor-isolating-proxy-584.html
+redirect_from: /2013/10/using-shorewall-to-configure-a-tor-isolating-proxy-584.html
 slug: using-shorewall-to-configure-a-tor-isolating-proxy
 title: Using Shorewall to configure a Tor isolating proxy
 wordpress_id: 584

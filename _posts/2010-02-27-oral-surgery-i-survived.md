@@ -4,6 +4,7 @@ comments: true
 date: 2010-02-27 01:36:41+00:00
 layout: post
 link: https://kromey.us/2010/02/oral-surgery-i-survived-308.html
+redirect_from: /2010/02/oral-surgery-i-survived-308.html
 slug: oral-surgery-i-survived
 title: Oral Surgery - I Survived!
 wordpress_id: 308

@@ -4,6 +4,7 @@ comments: true
 date: 2010-01-07 02:18:42+00:00
 layout: post
 link: https://kromey.us/2010/01/the-quest-for-less-weight-291.html
+redirect_from: /2010/01/the-quest-for-less-weight-291.html
 slug: the-quest-for-less-weight
 title: The Quest for Less Weight
 wordpress_id: 291

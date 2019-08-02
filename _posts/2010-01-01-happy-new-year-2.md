@@ -4,6 +4,7 @@ comments: true
 date: 2010-01-01 09:01:50+00:00
 layout: post
 link: https://kromey.us/2010/01/happy-new-year-2-288.html
+redirect_from: /2010/01/happy-new-year-2-288.html
 slug: happy-new-year-2
 title: Happy New Year!
 wordpress_id: 288

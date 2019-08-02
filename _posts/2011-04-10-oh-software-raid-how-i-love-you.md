@@ -4,6 +4,7 @@ comments: true
 date: 2011-04-10 07:13:18+00:00
 layout: post
 link: https://kromey.us/2011/04/oh-software-raid-how-i-love-you-389.html
+redirect_from: /2011/04/oh-software-raid-how-i-love-you-389.html
 slug: oh-software-raid-how-i-love-you
 title: Oh software RAID, how I love you!
 wordpress_id: 389

@@ -4,6 +4,7 @@ comments: true
 date: 2010-02-25 02:31:08+00:00
 layout: post
 link: https://kromey.us/2010/02/oral-surgery-this-week-304.html
+redirect_from: /2010/02/oral-surgery-this-week-304.html
 slug: oral-surgery-this-week
 title: Oral Surgery This Week
 wordpress_id: 304

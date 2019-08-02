@@ -4,6 +4,7 @@ comments: true
 date: 2009-09-17 01:54:05+00:00
 layout: post
 link: https://kromey.us/2009/09/trying-some-new-anti-spam-techniques-190.html
+redirect_from: /2009/09/trying-some-new-anti-spam-techniques-190.html
 slug: trying-some-new-anti-spam-techniques
 title: Trying Some new Anti-Spam Techniques
 wordpress_id: 190

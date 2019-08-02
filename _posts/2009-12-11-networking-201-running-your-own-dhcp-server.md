@@ -4,6 +4,7 @@ comments: true
 date: 2009-12-11 04:31:33+00:00
 layout: post
 link: https://kromey.us/2009/12/networking-201-running-your-own-dhcp-server-229.html
+redirect_from: /2009/12/networking-201-running-your-own-dhcp-server-229.html
 slug: networking-201-running-your-own-dhcp-server
 title: 'Networking 201: Running your own DHCP server'
 wordpress_id: 229

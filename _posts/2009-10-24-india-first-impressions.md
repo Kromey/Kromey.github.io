@@ -4,6 +4,7 @@ comments: true
 date: 2009-10-24 13:22:32+00:00
 layout: post
 link: https://kromey.us/2009/10/india-first-impressions-203.html
+redirect_from: /2009/10/india-first-impressions-203.html
 slug: india-first-impressions
 title: India - First Impressions
 wordpress_id: 203

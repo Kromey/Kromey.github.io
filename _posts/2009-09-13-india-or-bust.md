@@ -4,6 +4,7 @@ comments: true
 date: 2009-09-13 05:16:52+00:00
 layout: post
 link: https://kromey.us/2009/09/india-or-bust-187.html
+redirect_from: /2009/09/india-or-bust-187.html
 slug: india-or-bust
 title: India or Bust!
 wordpress_id: 187

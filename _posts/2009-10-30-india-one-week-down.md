@@ -4,6 +4,7 @@ comments: true
 date: 2009-10-30 14:08:24+00:00
 layout: post
 link: https://kromey.us/2009/10/india-one-week-down-210.html
+redirect_from: /2009/10/india-one-week-down-210.html
 slug: india-one-week-down
 title: India - One Week Down
 wordpress_id: 210

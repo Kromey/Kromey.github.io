@@ -4,6 +4,7 @@ comments: true
 date: 2010-04-20 01:02:15+00:00
 layout: post
 link: https://kromey.us/2010/04/this-is-intolerable-330.html
+redirect_from: /2010/04/this-is-intolerable-330.html
 slug: this-is-intolerable
 title: This is Intolerable
 wordpress_id: 330

@@ -4,6 +4,7 @@ comments: true
 date: 2015-01-10 03:50:51+00:00
 layout: post
 link: https://kromey.us/2015/01/pypi-doesnt-like-your-markdown-685.html
+redirect_from: /2015/01/pypi-doesnt-like-your-markdown-685.html
 slug: pypi-doesnt-like-your-markdown
 title: PyPi Doesn't Like Your Markdown
 wordpress_id: 685

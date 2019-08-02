@@ -4,6 +4,7 @@ comments: true
 date: 2011-08-31 01:55:18+00:00
 layout: post
 link: https://kromey.us/2011/08/deus-ex-human-revolution-510.html
+redirect_from: /2011/08/deus-ex-human-revolution-510.html
 slug: deus-ex-human-revolution
 title: 'Deus Ex: Human Revolution'
 wordpress_id: 510

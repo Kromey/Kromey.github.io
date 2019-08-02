@@ -4,6 +4,7 @@ comments: true
 date: 2011-05-25 03:19:54+00:00
 layout: post
 link: https://kromey.us/2011/05/changing-an-exchange-user-mailbox-to-a-resource-411.html
+redirect_from: /2011/05/changing-an-exchange-user-mailbox-to-a-resource-411.html
 slug: changing-an-exchange-user-mailbox-to-a-resource
 title: Changing an Exchange User Mailbox to a Resource
 wordpress_id: 411

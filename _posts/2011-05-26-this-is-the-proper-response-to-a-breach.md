@@ -4,6 +4,7 @@ comments: true
 date: 2011-05-26 01:48:46+00:00
 layout: post
 link: https://kromey.us/2011/05/this-is-the-proper-response-to-a-breach-418.html
+redirect_from: /2011/05/this-is-the-proper-response-to-a-breach-418.html
 slug: this-is-the-proper-response-to-a-breach
 title: This is the Proper Response to a Breach
 wordpress_id: 418

@@ -4,6 +4,7 @@ comments: true
 date: 2009-02-04 23:27:24+00:00
 layout: post
 link: https://kromey.us/2009/02/yummy-nummy-15.html
+redirect_from: /2009/02/yummy-nummy-15.html
 slug: yummy-nummy
 title: Yummy nummy!!
 wordpress_id: 15

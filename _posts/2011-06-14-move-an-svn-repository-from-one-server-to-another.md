@@ -4,6 +4,7 @@ comments: true
 date: 2011-06-14 02:01:39+00:00
 layout: post
 link: https://kromey.us/2011/06/move-an-svn-repository-from-one-server-to-another-433.html
+redirect_from: /2011/06/move-an-svn-repository-from-one-server-to-another-433.html
 slug: move-an-svn-repository-from-one-server-to-another
 title: Move an SVN Repository From One Server to Another
 wordpress_id: 433

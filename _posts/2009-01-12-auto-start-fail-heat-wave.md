@@ -4,6 +4,7 @@ comments: true
 date: 2009-01-12 15:19:08+00:00
 layout: post
 link: https://kromey.us/2009/01/auto-start-fail-heat-wave-10.html
+redirect_from: /2009/01/auto-start-fail-heat-wave-10.html
 slug: auto-start-fail-heat-wave
 title: Auto-start fail; Heat wave!
 wordpress_id: 10

@@ -4,6 +4,7 @@ comments: true
 date: 2009-11-02 17:13:12+00:00
 layout: post
 link: https://kromey.us/2009/11/india-poovar-random-thoughts-212.html
+redirect_from: /2009/11/india-poovar-random-thoughts-212.html
 slug: india-poovar-random-thoughts
 title: India - Poovar, random thoughts
 wordpress_id: 212

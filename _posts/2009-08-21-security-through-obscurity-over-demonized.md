@@ -4,6 +4,7 @@ comments: true
 date: 2009-08-21 01:53:49+00:00
 layout: post
 link: https://kromey.us/2009/08/security-through-obscurity-over-demonized-94.html
+redirect_from: /2009/08/security-through-obscurity-over-demonized-94.html
 slug: security-through-obscurity-over-demonized
 title: Security Through Obscurity - Over-demonized?
 wordpress_id: 94

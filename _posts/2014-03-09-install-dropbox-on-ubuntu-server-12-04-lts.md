@@ -4,6 +4,7 @@ comments: true
 date: 2014-03-09 19:53:29+00:00
 layout: post
 link: https://kromey.us/2014/03/install-dropbox-on-ubuntu-server-12-04-lts-642.html
+redirect_from: /2014/03/install-dropbox-on-ubuntu-server-12-04-lts-642.html
 slug: install-dropbox-on-ubuntu-server-12-04-lts
 title: Install Dropbox on Ubuntu Server 12.04 LTS
 wordpress_id: 642

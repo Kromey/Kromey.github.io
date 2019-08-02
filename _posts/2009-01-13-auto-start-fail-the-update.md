@@ -4,6 +4,7 @@ comments: true
 date: 2009-01-13 16:19:22+00:00
 layout: post
 link: https://kromey.us/2009/01/auto-start-fail-the-update-13.html
+redirect_from: /2009/01/auto-start-fail-the-update-13.html
 slug: auto-start-fail-the-update
 title: 'Auto-start fail: The Update'
 wordpress_id: 13

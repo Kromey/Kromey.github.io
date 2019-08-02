@@ -4,6 +4,7 @@ comments: true
 date: 2016-01-24 22:07:08+00:00
 layout: post
 link: https://kromey.us/2016/01/raspberry-pi-as-a-gateway-721.html
+redirect_from: /2016/01/raspberry-pi-as-a-gateway-721.html
 slug: raspberry-pi-as-a-gateway
 title: Using a Raspberry Pi as a Network Gateway
 wordpress_id: 721

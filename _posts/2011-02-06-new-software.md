@@ -4,6 +4,7 @@ comments: true
 date: 2011-02-06 04:38:05+00:00
 layout: post
 link: https://kromey.us/2011/02/new-software-339.html
+redirect_from: /2011/02/new-software-339.html
 slug: new-software
 title: New Software
 wordpress_id: 339

@@ -4,6 +4,7 @@ comments: true
 date: 2016-07-21 23:37:22+00:00
 layout: post
 link: https://kromey.us/2016/07/setting-up-an-iptables-firewall-part-3-777.html
+redirect_from: /2016/07/setting-up-an-iptables-firewall-part-3-777.html
 slug: setting-up-an-iptables-firewall-part-3
 title: 'Setting Up An iptables Firewall: Part 3'
 wordpress_id: 777

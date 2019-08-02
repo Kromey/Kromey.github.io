@@ -4,6 +4,7 @@ comments: true
 date: 2010-03-23 02:45:59+00:00
 layout: post
 link: https://kromey.us/2010/03/defend-your-ssh-server-316.html
+redirect_from: /2010/03/defend-your-ssh-server-316.html
 slug: defend-your-ssh-server
 title: Defend Your SSH Server
 wordpress_id: 316

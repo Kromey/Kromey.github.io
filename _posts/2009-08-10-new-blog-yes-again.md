@@ -4,6 +4,7 @@ comments: true
 date: 2009-08-10 00:34:43+00:00
 layout: post
 link: https://kromey.us/2009/08/new-blog-yes-again-20.html
+redirect_from: /2009/08/new-blog-yes-again-20.html
 slug: new-blog-yes-again
 title: New blog! (...yes, again...)
 wordpress_id: 20

@@ -4,6 +4,7 @@ comments: true
 date: 2009-09-02 00:35:06+00:00
 layout: post
 link: https://kromey.us/2009/09/the-day-the-world-ended-134.html
+redirect_from: /2009/09/the-day-the-world-ended-134.html
 slug: the-day-the-world-ended
 title: The Day the World Ended
 wordpress_id: 134

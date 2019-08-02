@@ -4,6 +4,7 @@ comments: true
 date: 2011-06-08 15:26:23+00:00
 layout: post
 link: https://kromey.us/2011/06/world-ipv6-day-430.html
+redirect_from: /2011/06/world-ipv6-day-430.html
 slug: world-ipv6-day
 title: World IPv6 Day
 wordpress_id: 430

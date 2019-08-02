@@ -4,6 +4,7 @@ comments: true
 date: 2011-04-30 22:47:31+00:00
 layout: post
 link: https://kromey.us/2011/04/microsofts-virtual-machine-manager-host-not-responding-398.html
+redirect_from: /2011/04/microsofts-virtual-machine-manager-host-not-responding-398.html
 slug: microsofts-virtual-machine-manager-host-not-responding
 title: 'Microsoft''s Virtual Machine Manager: "Host not responding"'
 wordpress_id: 398

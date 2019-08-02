@@ -4,6 +4,7 @@ comments: true
 date: 2011-02-12 04:59:03+00:00
 layout: post
 link: https://kromey.us/2011/02/wordpress-on-a-lemp-stack-366.html
+redirect_from: /2011/02/wordpress-on-a-lemp-stack-366.html
 slug: wordpress-on-a-lemp-stack
 title: WordPress on a LEMP Stack
 wordpress_id: 366

@@ -4,6 +4,7 @@ comments: true
 date: 2009-01-01 08:00:07+00:00
 layout: post
 link: https://kromey.us/2009/01/happy-new-year-3.html
+redirect_from: /2009/01/happy-new-year-3.html
 slug: happy-new-year
 title: Happy New Year!!
 wordpress_id: 3

@@ -4,6 +4,7 @@ comments: true
 date: 2009-12-14 04:56:14+00:00
 layout: post
 link: https://kromey.us/2009/12/networking-201-running-your-own-dns-server-252.html
+redirect_from: /2009/12/networking-201-running-your-own-dns-server-252.html
 slug: networking-201-running-your-own-dns-server
 title: 'Networking 201: Running your own DNS server'
 wordpress_id: 252

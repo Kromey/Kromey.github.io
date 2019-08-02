@@ -4,6 +4,7 @@ comments: true
 date: 2009-11-16 23:39:03+00:00
 layout: post
 link: https://kromey.us/2009/11/india-parting-thoughts-217.html
+redirect_from: /2009/11/india-parting-thoughts-217.html
 slug: india-parting-thoughts
 title: India - Parting Thoughts
 wordpress_id: 217

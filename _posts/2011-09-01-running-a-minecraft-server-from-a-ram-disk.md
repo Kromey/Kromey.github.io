@@ -4,6 +4,7 @@ comments: true
 date: 2011-09-01 03:16:29+00:00
 layout: post
 link: https://kromey.us/2011/08/running-a-minecraft-server-from-a-ram-disk-452.html
+redirect_from: /2011/08/running-a-minecraft-server-from-a-ram-disk-452.html
 slug: running-a-minecraft-server-from-a-ram-disk
 title: Running a Minecraft Server from a RAM Disk
 wordpress_id: 452

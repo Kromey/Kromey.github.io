@@ -4,6 +4,7 @@ comments: true
 date: 2009-11-22 04:44:33+00:00
 layout: post
 link: https://kromey.us/2009/11/im-engaged-222.html
+redirect_from: /2009/11/im-engaged-222.html
 slug: im-engaged
 title: I'm Engaged!
 wordpress_id: 222

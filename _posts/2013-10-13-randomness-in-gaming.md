@@ -4,6 +4,7 @@ comments: true
 date: 2013-10-13 02:20:24+00:00
 layout: post
 link: https://kromey.us/2013/10/randomness-in-gaming-503.html
+redirect_from: /2013/10/randomness-in-gaming-503.html
 slug: randomness-in-gaming
 title: Randomness in Gaming
 wordpress_id: 503

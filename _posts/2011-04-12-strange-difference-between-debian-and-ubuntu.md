@@ -4,6 +4,7 @@ comments: true
 date: 2011-04-12 01:11:57+00:00
 layout: post
 link: https://kromey.us/2011/04/strange-difference-between-debian-and-ubuntu-391.html
+redirect_from: /2011/04/strange-difference-between-debian-and-ubuntu-391.html
 slug: strange-difference-between-debian-and-ubuntu
 title: Strange Difference Between Debian and Ubuntu
 wordpress_id: 391

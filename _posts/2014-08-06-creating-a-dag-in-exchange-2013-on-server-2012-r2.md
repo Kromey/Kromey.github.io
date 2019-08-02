@@ -4,6 +4,7 @@ comments: true
 date: 2014-08-06 20:02:00+00:00
 layout: post
 link: https://kromey.us/2014/08/creating-a-dag-in-exchange-2013-on-server-2012-r2-653.html
+redirect_from: /2014/08/creating-a-dag-in-exchange-2013-on-server-2012-r2-653.html
 slug: creating-a-dag-in-exchange-2013-on-server-2012-r2
 title: Creating a DAG in Exchange 2013 on Server 2012 R2
 wordpress_id: 653

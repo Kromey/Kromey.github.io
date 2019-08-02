@@ -4,6 +4,7 @@ comments: true
 date: 2011-06-08 02:13:20+00:00
 layout: post
 link: https://kromey.us/2011/06/named-based-virtual-hosts-with-nginx-on-ipv6-423.html
+redirect_from: /2011/06/named-based-virtual-hosts-with-nginx-on-ipv6-423.html
 slug: named-based-virtual-hosts-with-nginx-on-ipv6
 title: Name-Based Virtual Hosts With nginx on IPv6
 wordpress_id: 423

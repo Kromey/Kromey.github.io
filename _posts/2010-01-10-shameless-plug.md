@@ -4,6 +4,7 @@ comments: true
 date: 2010-01-10 19:54:05+00:00
 layout: post
 link: https://kromey.us/2010/01/shameless-plug-297.html
+redirect_from: /2010/01/shameless-plug-297.html
 slug: shameless-plug
 title: Shameless Plug
 wordpress_id: 297

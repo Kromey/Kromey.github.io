@@ -4,6 +4,7 @@ comments: true
 date: 2014-12-22 03:13:37+00:00
 layout: post
 link: https://kromey.us/2014/12/grow-a-pair-isnt-sexist-its-stupid-667.html
+redirect_from: /2014/12/grow-a-pair-isnt-sexist-its-stupid-667.html
 slug: grow-a-pair-isnt-sexist-its-stupid
 title: '"Grow a pair" isn''t sexist -- it''s stupid'
 wordpress_id: 667

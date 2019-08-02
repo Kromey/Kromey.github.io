@@ -4,6 +4,7 @@ comments: true
 date: 2014-01-01 01:55:47+00:00
 layout: post
 link: https://kromey.us/2013/12/remember-me-615.html
+redirect_from: /2013/12/remember-me-615.html
 slug: remember-me
 title: Remember Me
 wordpress_id: 615

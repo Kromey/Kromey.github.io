@@ -4,6 +4,7 @@ comments: true
 date: 2009-08-25 00:48:30+00:00
 layout: post
 link: https://kromey.us/2009/08/take-note-cryptic-error-messages-help-no-one-101.html
+redirect_from: /2009/08/take-note-cryptic-error-messages-help-no-one-101.html
 slug: take-note-cryptic-error-messages-help-no-one
 title: 'Take Note: Cryptic Error Messages Help No One'
 wordpress_id: 101

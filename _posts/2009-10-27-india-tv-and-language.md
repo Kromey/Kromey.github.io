@@ -4,6 +4,7 @@ comments: true
 date: 2009-10-27 15:08:42+00:00
 layout: post
 link: https://kromey.us/2009/10/india-tv-and-language-205.html
+redirect_from: /2009/10/india-tv-and-language-205.html
 slug: india-tv-and-language
 title: India - TV and Language
 wordpress_id: 205

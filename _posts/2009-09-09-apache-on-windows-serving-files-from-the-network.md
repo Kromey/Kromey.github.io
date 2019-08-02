@@ -4,6 +4,7 @@ comments: true
 date: 2009-09-09 01:44:49+00:00
 layout: post
 link: https://kromey.us/2009/09/apache-on-windows-serving-files-from-the-network-150.html
+redirect_from: /2009/09/apache-on-windows-serving-files-from-the-network-150.html
 slug: apache-on-windows-serving-files-from-the-network
 title: 'Apache on Windows: Serving Files From the Network'
 wordpress_id: 150

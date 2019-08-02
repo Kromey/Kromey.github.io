@@ -4,6 +4,7 @@ comments: true
 date: 2011-08-31 01:45:38+00:00
 layout: post
 link: https://kromey.us/2011/08/dynamic-dns-with-linode-and-cloudflare-459.html
+redirect_from: /2011/08/dynamic-dns-with-linode-and-cloudflare-459.html
 slug: dynamic-dns-with-linode-and-cloudflare
 title: Dynamic DNS with Linode and CloudFlare
 wordpress_id: 459

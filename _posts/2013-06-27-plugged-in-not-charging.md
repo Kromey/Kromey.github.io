@@ -4,6 +4,7 @@ comments: true
 date: 2013-06-27 07:49:48+00:00
 layout: post
 link: https://kromey.us/2013/06/plugged-in-not-charging-490.html
+redirect_from: /2013/06/plugged-in-not-charging-490.html
 slug: plugged-in-not-charging
 title: Plugged in, not charging?
 wordpress_id: 490

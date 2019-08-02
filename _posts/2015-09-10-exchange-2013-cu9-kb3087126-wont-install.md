@@ -4,6 +4,7 @@ comments: true
 date: 2015-09-10 23:47:37+00:00
 layout: post
 link: https://kromey.us/2015/09/exchange-2013-cu9-kb3087126-wont-install-700.html
+redirect_from: /2015/09/exchange-2013-cu9-kb3087126-wont-install-700.html
 slug: exchange-2013-cu9-kb3087126-wont-install
 title: 'Exchange 2013 CU9: KB3087126 won''t install?'
 wordpress_id: 700

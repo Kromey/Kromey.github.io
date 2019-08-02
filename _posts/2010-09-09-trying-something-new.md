@@ -4,6 +4,7 @@ comments: true
 date: 2010-09-09 01:32:48+00:00
 layout: post
 link: https://kromey.us/2010/09/trying-something-new-335.html
+redirect_from: /2010/09/trying-something-new-335.html
 slug: trying-something-new
 title: Trying Something New
 wordpress_id: 335

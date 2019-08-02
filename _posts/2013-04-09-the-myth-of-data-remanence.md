@@ -4,6 +4,7 @@ comments: true
 date: 2013-04-09 01:30:47+00:00
 layout: post
 link: https://kromey.us/2013/04/the-myth-of-data-remanence-484.html
+redirect_from: /2013/04/the-myth-of-data-remanence-484.html
 slug: the-myth-of-data-remanence
 title: The Myth of Data Remanence
 wordpress_id: 484

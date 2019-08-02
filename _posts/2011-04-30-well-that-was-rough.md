@@ -4,6 +4,7 @@ comments: true
 date: 2011-04-30 22:19:58+00:00
 layout: post
 link: https://kromey.us/2011/04/well-that-was-rough-400.html
+redirect_from: /2011/04/well-that-was-rough-400.html
 slug: well-that-was-rough
 title: Well, that was rough
 wordpress_id: 400

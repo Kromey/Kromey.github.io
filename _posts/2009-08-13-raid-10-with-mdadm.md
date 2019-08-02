@@ -4,6 +4,7 @@ comments: true
 date: 2009-08-13 00:55:33+00:00
 layout: post
 link: https://kromey.us/2009/08/raid-10-with-mdadm-65.html
+redirect_from: /2009/08/raid-10-with-mdadm-65.html
 slug: raid-10-with-mdadm
 title: RAID 10 with mdadm
 wordpress_id: 65

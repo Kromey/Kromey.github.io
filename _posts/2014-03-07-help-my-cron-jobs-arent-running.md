@@ -4,6 +4,7 @@ comments: true
 date: 2014-03-07 03:14:14+00:00
 layout: post
 link: https://kromey.us/2014/03/help-my-cron-jobs-arent-running-640.html
+redirect_from: /2014/03/help-my-cron-jobs-arent-running-640.html
 slug: help-my-cron-jobs-arent-running
 title: Help! My cron jobs aren't running!
 wordpress_id: 640

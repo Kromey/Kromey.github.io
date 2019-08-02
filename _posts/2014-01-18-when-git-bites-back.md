@@ -4,6 +4,7 @@ comments: true
 date: 2014-01-18 03:05:33+00:00
 layout: post
 link: https://kromey.us/2014/01/when-git-bites-back-624.html
+redirect_from: /2014/01/when-git-bites-back-624.html
 slug: when-git-bites-back
 title: When Git Bites Back
 wordpress_id: 624

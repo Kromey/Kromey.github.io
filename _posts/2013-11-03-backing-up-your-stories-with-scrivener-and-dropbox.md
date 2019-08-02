@@ -4,6 +4,7 @@ comments: true
 date: 2013-11-03 04:19:04+00:00
 layout: post
 link: https://kromey.us/2013/11/backing-up-your-stories-with-scrivener-and-dropbox-599.html
+redirect_from: /2013/11/backing-up-your-stories-with-scrivener-and-dropbox-599.html
 slug: backing-up-your-stories-with-scrivener-and-dropbox
 title: Backing up your stories with Scrivener and Dropbox
 wordpress_id: 599

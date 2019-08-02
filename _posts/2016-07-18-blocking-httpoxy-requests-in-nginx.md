@@ -4,6 +4,7 @@ comments: true
 date: 2016-07-18 17:11:35+00:00
 layout: post
 link: https://kromey.us/2016/07/blocking-httpoxy-requests-in-nginx-747.html
+redirect_from: /2016/07/blocking-httpoxy-requests-in-nginx-747.html
 slug: blocking-httpoxy-requests-in-nginx
 title: Blocking httpoxy Requests In nginx
 wordpress_id: 747

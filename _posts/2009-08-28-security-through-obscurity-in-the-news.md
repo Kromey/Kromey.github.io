@@ -4,6 +4,7 @@ comments: true
 date: 2009-08-28 00:53:00+00:00
 layout: post
 link: https://kromey.us/2009/08/security-through-obscurity-in-the-news-123.html
+redirect_from: /2009/08/security-through-obscurity-in-the-news-123.html
 slug: security-through-obscurity-in-the-news
 title: Security Through Obscurity in the News
 wordpress_id: 123

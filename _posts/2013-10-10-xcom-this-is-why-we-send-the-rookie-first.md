@@ -4,6 +4,7 @@ comments: true
 date: 2013-10-10 02:12:10+00:00
 layout: post
 link: https://kromey.us/2013/10/xcom-this-is-why-we-send-the-rookie-first-500.html
+redirect_from: /2013/10/xcom-this-is-why-we-send-the-rookie-first-500.html
 slug: xcom-this-is-why-we-send-the-rookie-first
 title: 'XCOM: This is why we send the rookie first'
 wordpress_id: 500
