@@ -10,6 +10,7 @@ title: Move an SVN Repository From One Server to Another
 wordpress_id: 433
 categories:
 - How-to
+- Tech
 tags:
 - guide
 - subversion

@@ -10,6 +10,7 @@ title: 'Setting Up An iptables Firewall: Part 2'
 wordpress_id: 759
 categories:
 - How-to
+- Tech
 tags:
 - firewall
 - guide

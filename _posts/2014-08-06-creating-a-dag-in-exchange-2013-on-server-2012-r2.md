@@ -10,6 +10,7 @@ title: Creating a DAG in Exchange 2013 on Server 2012 R2
 wordpress_id: 653
 categories:
 - How-to
+- Tech
 tags:
 - exchange
 - exchange 2013

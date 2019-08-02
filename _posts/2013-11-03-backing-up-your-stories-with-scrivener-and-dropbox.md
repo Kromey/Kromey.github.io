@@ -10,6 +10,7 @@ title: Backing up your stories with Scrivener and Dropbox
 wordpress_id: 599
 categories:
 - How-to
+- Tech
 tags:
 - dropbox
 - guide

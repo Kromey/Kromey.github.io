@@ -10,6 +10,7 @@ title: Install Dropbox on Ubuntu Server 12.04 LTS
 wordpress_id: 642
 categories:
 - How-to
+- Tech
 tags:
 - dropbox
 - guide

@@ -10,6 +10,7 @@ title: This is the Proper Response to a Breach
 wordpress_id: 418
 categories:
 - Security
+- Tech
 tags:
 - apache
 - Security

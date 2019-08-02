@@ -10,6 +10,7 @@ title: The Myth of Data Remanence
 wordpress_id: 484
 categories:
 - Security
+- Tech
 tags:
 - data security
 ---

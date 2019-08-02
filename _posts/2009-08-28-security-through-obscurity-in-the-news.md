@@ -10,6 +10,7 @@ title: Security Through Obscurity in the News
 wordpress_id: 123
 categories:
 - Security
+- Tech
 tags:
 - computer
 - news

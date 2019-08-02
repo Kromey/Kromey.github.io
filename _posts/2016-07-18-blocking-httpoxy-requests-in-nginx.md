@@ -10,6 +10,7 @@ title: Blocking httpoxy Requests In nginx
 wordpress_id: 747
 categories:
 - Security
+- Tech
 tags:
 - guide
 - how-to

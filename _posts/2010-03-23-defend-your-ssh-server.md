@@ -10,6 +10,7 @@ title: Defend Your SSH Server
 wordpress_id: 316
 categories:
 - Security
+- Tech
 tags:
 - firewall
 - Security

@@ -10,6 +10,7 @@ title: 'Apache on Windows: Serving Files From the Network'
 wordpress_id: 150
 categories:
 - How-to
+- Tech
 tags:
 - apache
 - guide

@@ -10,6 +10,7 @@ title: RAID 10 with mdadm
 wordpress_id: 65
 categories:
 - How-to
+- Tech
 tags:
 - guide
 - linux

@@ -10,6 +10,7 @@ title: 'Networking 201: Running your own DNS server'
 wordpress_id: 252
 categories:
 - How-to
+- Tech
 tags:
 - bind9
 - dhcp

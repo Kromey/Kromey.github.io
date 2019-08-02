@@ -10,6 +10,7 @@ title: PyPi Doesn't Like Your Markdown
 wordpress_id: 685
 categories:
 - How-to
+- Tech
 tags:
 - guide
 - pet peeves

@@ -10,6 +10,7 @@ title: 'Exchange 2013 CU9: KB3087126 won''t install?'
 wordpress_id: 700
 categories:
 - How-to
+- Tech
 tags:
 - errors
 - exchange 2013

@@ -10,6 +10,7 @@ title: Microsoft SQL Server 2008 Times Out on First Connection Attempt?
 wordpress_id: 447
 categories:
 - How-to
+- Tech
 tags:
 - sql server
 - windows

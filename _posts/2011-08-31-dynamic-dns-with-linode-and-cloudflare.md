@@ -10,6 +10,7 @@ title: Dynamic DNS with Linode and CloudFlare
 wordpress_id: 459
 categories:
 - How-to
+- Tech
 tags:
 - cloudflare
 - dns

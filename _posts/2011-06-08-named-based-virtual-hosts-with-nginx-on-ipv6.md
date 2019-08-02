@@ -10,6 +10,7 @@ title: Name-Based Virtual Hosts With nginx on IPv6
 wordpress_id: 423
 categories:
 - How-to
+- Tech
 tags:
 - guide
 - ipv6

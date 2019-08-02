@@ -10,6 +10,7 @@ title: Using Shorewall to configure a Tor isolating proxy
 wordpress_id: 584
 categories:
 - How-to
+- Tech
 tags:
 - anonymity
 - firewall

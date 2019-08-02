@@ -10,6 +10,7 @@ title: Running a Minecraft Server from a RAM Disk
 wordpress_id: 452
 categories:
 - How-to
+- Tech
 tags:
 - guide
 - linux

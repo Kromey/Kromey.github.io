@@ -10,6 +10,7 @@ title: Plugged in, not charging?
 wordpress_id: 490
 categories:
 - How-to
+- Tech
 ---
 
 Weird issue. Tonight I noticed that, despite having plugged it in quite a while ago, the little system tray indicator still suggested I had very low battery charge remaining. Hovering over it revealed something even more troubling:

@@ -10,6 +10,7 @@ title: Changing an Exchange User Mailbox to a Resource
 wordpress_id: 411
 categories:
 - How-to
+- Tech
 tags:
 - exchange server
 - guide

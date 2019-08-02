@@ -10,6 +10,7 @@ title: 'Networking 201: Running your own DHCP server'
 wordpress_id: 229
 categories:
 - How-to
+- Tech
 tags:
 - dhcp
 - guide

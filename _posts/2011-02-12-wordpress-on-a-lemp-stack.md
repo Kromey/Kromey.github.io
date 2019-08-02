@@ -10,6 +10,7 @@ title: WordPress on a LEMP Stack
 wordpress_id: 366
 categories:
 - How-to
+- Tech
 tags:
 - lemp
 - nginx

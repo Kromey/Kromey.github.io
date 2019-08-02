@@ -10,6 +10,7 @@ title: Using a Raspberry Pi as a Network Gateway
 wordpress_id: 721
 categories:
 - How-to
+- Tech
 tags:
 - dhcp
 - dns

@@ -10,6 +10,7 @@ title: Security Through Obscurity - Over-demonized?
 wordpress_id: 94
 categories:
 - Security
+- Tech
 tags:
 - computer
 ---
