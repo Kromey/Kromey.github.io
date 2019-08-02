@@ -2,8 +2,36 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
+<div class="post-category">
+	Posted in
+	{% for category in page.categories %}
+	<a href="/category/{{ category | slugify }}/">{{ category }}</a>
+	{% endfor %}
+</div>
+<div class="post-tag">
+	Tagged
+	{% for tag in page.tags %}
+	<a href="/tag/{{ tag | slugify }}/">{{ tag }}</a>
+	{% endfor %}
+</div>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
 	{{ content }}
+</div>
+
+<div class="related">
+	<h3>Related Posts</h3>
+	{% assign cat = page.categories | first %}
+	{% assign count = 0 %}
+	{% for related in site.categories[cat] %}
+		{% unless page.url == related.url %}
+			{% assign count = count | plus: 1 %}
+			<a href="{{ related.url }}">{{ related.title }}</a>
+		{% endunless %}
+
+		{% if count == 3 %}
+			{% break %}
+		{% endif %}
+	{% endfor %}
 </div>
