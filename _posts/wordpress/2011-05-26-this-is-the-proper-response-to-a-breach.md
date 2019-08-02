@@ -1,5 +1,5 @@
 ---
-author: admin
+author: kromey
 comments: true
 date: 2011-05-26 01:48:46+00:00
 layout: post
