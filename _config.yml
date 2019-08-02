@@ -11,6 +11,7 @@ gfm_quirks: paragraph_end
 plugins:
   - jemoji
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 repository: Kromey/Kromey.github.io
 timezone: America/Anchorage
