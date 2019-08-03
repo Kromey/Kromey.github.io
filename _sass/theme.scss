@@ -266,18 +266,43 @@ a.name {
 	white-space: nowrap;
 }
 
-header ul {
+
+
+/* Section - for main page content */
+
+section {
+	padding: 0 15px 50px;
+	position: relative;
+}
+
+$sidebar-width: 220px;
+
+div.content {
+	padding-right: $sidebar-width;
+	max-width: 100%;
+	box-sizing: border-box;
+}
+
+/* Sidebar */
+div.sidebar {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: $sidebar-width;
+	padding: 30px 5px 10px 10px;
+	box-sizing: border-box;
+}
+.sidebar ul {
 	list-style:none;
 	padding:0;
 	margin: 0;
 }
 
-header li {
+.sidebar li {
 	list-style-type: none;
-	display: inline-block;
-	min-width:132px;
+	width:132px;
 	height:15px;
-	margin: 0 10px 12px;
+	margin-bottom: 12px;
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
 
@@ -297,7 +322,7 @@ header li {
 
 }
 
-header li:hover {
+.sidebar li:hover {
 	background: #C3001D;
 	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
@@ -305,6 +330,10 @@ header li:hover {
 	background: -o-linear-gradient(top, #C3001D 0%,#950119 100%);
 	background: -ms-linear-gradient(top, #C3001D 0%,#950119 100%);
 	background: linear-gradient(to top, #C3001D 0%,#950119 100%);
+}
+
+.sidebar li, .sidebar a {
+	color: #fff;
 }
 
 a.buttons {
@@ -323,13 +352,6 @@ a.github {
 a.buttons:hover {
 	color: #fff;
 	text-decoration: none;
-}
-
-
-/* Section - for main page content */
-
-section {
-	padding: 0 15px 50px;
 }
 
 
