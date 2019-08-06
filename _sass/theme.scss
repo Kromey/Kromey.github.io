@@ -318,6 +318,9 @@ div.content {
 	display: inline-block;
 	margin-right: 15px;
 }
+.post-tag a::before {
+	content: '#';
+}
 .post-category a::after, .post-tag a::after {
 	content: ',';
 }
