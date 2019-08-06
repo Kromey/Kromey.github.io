@@ -1,6 +1,34 @@
 title: Kromey's Adventures
 description: Just a nerd with aspirations to delusions of grandeur
 
+nav_menu:
+  - label: Home
+    url: /
+  - label: Categories
+    url: /category/
+    sub_menu:
+      - label: Tech
+        url: /category/tech/
+      - label: '- Security'
+        url: /category/security/
+      - label: '- How to'
+        url: /category/how-to/
+      - label: Games
+        url: /category/games/
+      - label: Life
+        url: /category/life/
+      - label: Reviews
+        url: /category/reviews/
+      - label: Updates
+        url: /category/updates/
+      - label: Random
+        url: /category/random/
+  - label: About Kromey
+    url: /about/
+    sub_menu:
+      - label: "Kromey's CV"
+        url: /about/cv/
+
 #github: [metadata]
 encoding: UTF-8
 kramdown:

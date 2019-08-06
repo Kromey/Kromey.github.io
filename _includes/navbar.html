@@ -1,8 +1,17 @@
 <nav>
 	<ul class="navbar">
-		<li><a href="#">Home</a></li>
-		<li><a href="#">Categories</a></li>
-		<li><a href="#">About Kromey</a></li>
-		<li><a href="#">Github</a></li>
+		{% for nav in site.nav_menu %}
+		<li>
+			<a href="{{ nav.url }}">{{ nav.label }}</a>
+			{% if nav.sub_menu %}
+			<ul class="sub-menu">
+				{% for sub in nav.sub_menu %}
+				<li><a href="{{ sub.url }}">{{ sub.label }}</a></li>
+				{% endfor %}
+			</ul>
+			{% endif %}
+		</li>
+		{% endfor %}
+		<li><a href="{{ site.github.owner_url }}">GitHub Profile</a></li>
 	</ul>
 </nav>

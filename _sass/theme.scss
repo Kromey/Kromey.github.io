@@ -279,8 +279,25 @@ header nav li a {
 	margin: 0;
 	border-radius: 5px;
 }
-header nav li a:hover {
+header nav li:hover a {
 	background-color: #333;
+}
+header nav li ul.sub-menu {
+	display: none;
+	position: absolute;
+	z-index: 1;
+	background-color: #333;
+	min-width: 160px;
+	border-radius: 0 10px 10px;
+}
+header nav li ul.sub-menu li {
+	display: block;
+}
+ul.sub-menu a {
+	display: block;
+}
+header nav li:hover ul.sub-menu {
+	display: block;
 }
 
 
