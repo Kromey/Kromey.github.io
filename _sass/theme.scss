@@ -279,6 +279,19 @@ div.content {
 	box-sizing: border-box;
 }
 
+/* Posts */
+
+.post-category, .post-tag {
+	display: inline-block;
+	margin-right: 15px;
+}
+.post-category a::after, .post-tag a::after {
+	content: ',';
+}
+.post-category a:last-child::after, .post-tag a:last-child::after {
+	content: '';
+}
+
 .sidebar ul {
 	list-style:none;
 	padding:0;
