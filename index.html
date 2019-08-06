@@ -8,7 +8,7 @@ title: Kromey's Adventures
 <p class="author">
 <span class="date">{{ post.date | date_to_string }}</span>
 <span class="category">
-	Posted in <a href="/category/{{ post.categories | first | slugify }}/">{{ post.categories | first }}</a>
+	in <a href="/category/{{ post.categories | first | slugify }}/">{{ post.categories | first }}</a>
 </span>
 </p>
 <div class="post-preview">
