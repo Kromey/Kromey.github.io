@@ -391,6 +391,25 @@ a.buttons:hover {
 }
 
 
+/* Related Posts */
+
+.related ul {
+	padding: 0;
+}
+.related li {
+	list-style: none;
+	display: inline-block;
+	break-inside: avoid;
+	margin: 0 5px;
+}
+.related li::before {
+	content: '« ';
+}
+.related li::after {
+	content: ' »';
+}
+
+
 /* Footer */
 
 footer {
