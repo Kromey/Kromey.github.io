@@ -29,7 +29,7 @@ layout: default
 	{% assign cat = page.categories | first %}
 	{% assign count = 0 %}
 	{% for related in site.categories[cat] %}
-		{% unless page.url == related.url %}
+		{% unless related.hidden or page.url == related.url %}
 			{% assign count = count | plus: 1 %}
 			<a href="{{ related.url }}">{{ related.title }}</a>
 		{% endunless %}
