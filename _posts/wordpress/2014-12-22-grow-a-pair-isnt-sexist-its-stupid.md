@@ -1,6 +1,7 @@
 ---
 author: kromey
 comments: true
+hidden: true
 date: 2014-12-22 03:13:37+00:00
 layout: post
 link: https://kromey.us/2014/12/grow-a-pair-isnt-sexist-its-stupid-667.html

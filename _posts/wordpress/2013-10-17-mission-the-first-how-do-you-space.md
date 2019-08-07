@@ -1,6 +1,7 @@
 ---
 author: kromey
 comments: true
+hidden: true
 date: 2013-10-17 00:09:37+00:00
 layout: post
 link: https://kromey.us/2013/10/mission-the-first-how-do-you-space-563.html

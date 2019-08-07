@@ -1,6 +1,7 @@
 ---
 author: kromey
 comments: true
+hidden: true
 date: 2013-10-11 22:39:46+00:00
 layout: post
 link: https://kromey.us/2013/10/starting-ksp-mission-logs-512.html
