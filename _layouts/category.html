@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="category">
-	<h1>Filed Under <small>#{{ page.tag }}</small></h1>
+	<h1>Filed Under <small>{{ page.tag }}</small></h1>
 
 	<ul class="posts">
 		{% for post in site.categories[page.tag] %}
