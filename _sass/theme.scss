@@ -394,6 +394,14 @@ a.buttons:hover {
 /* Footer */
 
 footer {
+	line-height: 1.5em;
+	padding: 0 0 0 90px;
+	min-height: 33px;
+	background: url('/assets/img/cc-by-88x31.png');
+	background-repeat: no-repeat;
+	background-position: left center;
+	max-width: 90%;
+	margin: 0 auto 20px;
 }
 
 @media screen and (max-width: 768px) {
