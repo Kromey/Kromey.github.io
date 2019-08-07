@@ -139,4 +139,4 @@ And with that, we already reach the end of this post. Your rules.v4 file should 
 
 
 
-That concludes this series, although I will likely continue to introduce additional concepts and tips for managing your ``iptables`/`ip6tables` firewalls in future posts.
+That concludes this series, although I will likely continue to introduce additional concepts and tips for managing your `iptables`/`ip6tables` firewalls in future posts.
