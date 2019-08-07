@@ -6,7 +6,12 @@ title: Kromey's Adventures
 {% for post in paginator.posts %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <p class="author">
-<span class="date">{{ post.date | date_to_string }}</span>
+<span class="date">
+	{{ post.date | date_to_string }}
+	{% if post.last_modified_at %}
+	<em>(Updated {{ post.last_modified_at | date_to_string }})</em>
+	{% endif %}
+</span>
 <span class="category">
 	in <a href="/category/{{ post.categories | first | slugify }}/">{{ post.categories | first }}</a>
 </span>
