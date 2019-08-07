@@ -13,7 +13,12 @@ layout: default
 	<a href="/tag/{{ tag | slugify }}/">{{ tag }}</a>
 	{% endfor %}
 </div>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta">
+	{{ page.date | date_to_string }}
+	{% if page.last_modified_at %}
+	<em>Updated {{ page.last_modified_at | date_to_string }}</em>
+	{% endif %}
+</p>
 
 <div class="post">
 	{{ content }}
