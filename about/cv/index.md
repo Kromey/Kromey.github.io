@@ -50,22 +50,20 @@ C/C++ Programming; Assembly Language Programming; Statistics; Computer Architect
 ## Recent Work Experience
 
 
+### Information Security Officer
 
+at Fairbanks North Star Borough School District, in Fairbanks, Alaska: October 2019 to Present.
+
+  * Building and managing the new cybersecurity program for the entire district.
+  * Deploying and enforcing MFA for all staff.
+  * Responding quickly and effectively to emerging threats and compromised credentials.
 
 ### System Administrator
 
+at Fairbanks North Star Borough School District, in Fairbanks, Alaska: February 2014 to September 2019.
 
-at Fairbanks North Star Borough School District, in Fairbanks, Alaska: February 2014 to Present.
-
-
-
-	
   * Responsible for maintaining network and server monitoring systems.
-
-	
   * Migrate e-mail service from Zimbra collaboration server to Microsoft Exchange.
-
-	
   * Restructuring Active Directory and rewriting the integration with Munis ERP and PowerSchool student information management systems.
 
 
